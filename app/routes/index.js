@@ -16,10 +16,4 @@ module.exports = function(app) {
 
 	app.route('/:timestamp')
 			.get(formatTime.main);
-		// 	var timestamp = req.params.timestamp.toString();
-		//
-		// 	var response = Date.parse(timestamp);
-		//
-			//res.sendStatus(response);
-
 };

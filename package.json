@@ -1,7 +1,7 @@
 {
   "name": "fcc-timestamp",
   "version": "1.0.0",
-  "description": "A tiestamp microservice built on Node and Express JS using the Clementine JS Framework",
+  "description": "A timestamp microservice built on Node and Express JS using the Clementine JS Framework",
   "main": "server.js",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
   "keywords": [
     "Express",
     "Node",
-    "javascript"
+    "Javascript"
   ],
   "scripts": {
     "start": "node server.js",
